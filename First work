@@ -44,9 +44,9 @@
         <form>
         <span class="lala"><label>性别:</label>
         <label>男</label>
-        <input type="radio" value="1"  name="gender" style="width:20px;height:20px;"/>
+        <input type="radio" value="1"  name="ohuo" style="width:20px;height:20px;"/>
         <label>女</label>
-        <input type="radio" value="2"  name="gender" style="width:20px;height:20px;"/></span>
+        <input type="radio" value="2"  name="ohuo" style="width:20px;height:20px;"/></span>
         </form>
         <form>
             <input type="submit" value="提交" style="width: 100px;height: 50px" />
